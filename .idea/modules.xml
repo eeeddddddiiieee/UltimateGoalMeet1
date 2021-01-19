@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FtcRobotController/FtcRobotController.iml" filepath="$PROJECT_DIR$/.idea/modules/FtcRobotController/FtcRobotController.iml" group="UltimateGoalMeet1/FtcRobotController" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TeamCode/TeamCode.iml" filepath="$PROJECT_DIR$/.idea/modules/TeamCode/TeamCode.iml" group="UltimateGoalMeet1/TeamCode" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GitHub.UltimateGoalMeet1.iml" filepath="$PROJECT_DIR$/.idea/modules/GitHub.UltimateGoalMeet1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/UltimateGoalMeet1.iml" filepath="$PROJECT_DIR$/.idea/UltimateGoalMeet1.iml" group="UltimateGoalMeet1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FtcRobotController/UltimateGoalMeet1.FtcRobotController.iml" filepath="$PROJECT_DIR$/.idea/modules/FtcRobotController/UltimateGoalMeet1.FtcRobotController.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TeamCode/UltimateGoalMeet1.TeamCode.iml" filepath="$PROJECT_DIR$/.idea/modules/TeamCode/UltimateGoalMeet1.TeamCode.iml" />
     </modules>
   </component>
 </project>
